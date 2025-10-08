@@ -1,0 +1,5 @@
+[
+  { "name": "Bread", "price": 5.50, "quantity": 2, "category": "Bakery" },
+  { "name": "Potato", "price": 3.00, "quantity": 1, "category": "Vegetables" },
+  { "name": "Apple", "price": 0.50, "quantity": 10, "category": "Fruits" }
+]
